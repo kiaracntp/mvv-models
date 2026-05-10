@@ -4,7 +4,7 @@ Exploratory modeling notebooks for multivesicular vesicle (MVV) directed signali
 
 The main notebook compares bulk, one-compartment, two-compartment, and three-compartment MVV cascade models against experimental fluorescence data. It also includes sanity-check plots for intermediate species such as stachyose, glucose, H2O2, and resorufin.
 
-## Notebook
+## Notebooks
 
 - `notebooks/MVV_models_cleaned.ipynb`  
   Main exploratory modeling notebook containing model construction, model-vs-data comparisons, and sanity-check plots across increasing compartment complexity.
