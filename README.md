@@ -8,6 +8,9 @@ The main notebook compares bulk, one-compartment, two-compartment, and three-com
 
 - `notebooks/MVV_models_cleaned.ipynb`  
   Main exploratory modeling notebook with model construction, model vs. data comparisons, and sanity-check plots.
+- `3_Compartment_Tuning.ipynb`
+  Notebook to test how selected parameter changes affect the three-compartment model output.
+  (Note: Some plots use interactive Bokeh outputs and may render best when opened locally in Jupyter or VS Code).
 
 ## Figures
 
